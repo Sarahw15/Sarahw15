@@ -18,9 +18,6 @@
 </div>
 Je suis Sarah Wechselgaertner, une étudiante en informatique qui essaie de mener à bien ses projets. Je passe la plupart du temps à les perfectionner esthétiquement quand cela est possible.
 
-### My top project 
-![Top Langs](https://github-readme-stats-silk-zeta-79.vercel.app/api/top-langs/?username=Sarahw15&theme=nightowl&layout=compact)
-
 ## Langages que je connais
 <div align="center">
  <a href="https://skillicons.dev">
@@ -34,6 +31,10 @@ Je suis Sarah Wechselgaertner, une étudiante en informatique qui essaie de mene
         <img src="https://skillicons.dev/icons?i=github,gitlab,godot,idea,linux,vim,visualstudio,vscode,vscodium,windows">
     </a>
 </div>
+
+### My stats
+![Top Langs](https://github-readme-stats-silk-zeta-79.vercel.app/api/top-langs/?username=Sarahw15&theme=nightowl&layout=compact)
+![Sarah w GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarahw15&show_icons=true&theme=radical)
 
 #
 <div align="center">
